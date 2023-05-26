@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pieash9&label=Profile%20views&color=0e75b6&style=flat" alt="pieash9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pieash9" alt="pieash9" /></a> </p>
-
 - 🌱 I’m currently learning **React, MongoDB,Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pieash9](https://github.com/pieash9)
