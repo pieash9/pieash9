@@ -3,13 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pieash9&label=Profile%20views&color=0e75b6&style=flat" alt="pieash9" /> </p>
+<p align="left"> <img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="269" alt="pieash9" /> </p>
 
-- 🌱 I’m currently learning **NextJS, TypeScript**
+- 🌱 I’m currently learning **Spring Boot, Nestjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pieash9](https://github.com/pieash9)
 
-- 💬 Ask me about **React,Express.js, MongoDB**
+- 💬 Ask me about **Nextjs,Express.js**
 
 - 📫 How to reach me **pieash9@gmail.com**
 
