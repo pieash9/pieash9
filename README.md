@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pieash9](https://github.com/pieash9)
 
-- 💬 Ask me about **Nextjs,Express.js**
+- 💬 Ask me about **Nextjs, Express.js**
 
 - 📫 How to reach me **pieash9@gmail.com**
 
